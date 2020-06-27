@@ -12,7 +12,7 @@
  * using the + and - keys.
  */
 
-#include <windows.h>
+#include <windows.h> // For Windows OS
 #ifdef __APPLE__
 #include <GLUT/glut.h>
 #else
