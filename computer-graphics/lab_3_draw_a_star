@@ -4,7 +4,7 @@
 void display() {
    glClear(GL_COLOR_BUFFER_BIT);         // Clear the color buffer (background)
 
-   glBegin(GL_TRIANGLES);               // Each set of 3 vertices form a triangle
+   glBegin(GL_TRIANGLES);                // Each set of 3 vertices form a triangle
       glColor3f(1.0f, 0.0f, 0.0f); // Red
       glVertex2f(0.0f, 1.0f);    // x, y
       glVertex2f( 0.5f, 0.0f);
