@@ -298,7 +298,7 @@ int main(int argc, char** argv) {
    glutInit(&argc, argv);
    glutInitWindowSize(450, 450);
    glutInitWindowPosition(50, 50);
-   glutCreateWindow("181008412");
+   glutCreateWindow("LAB_3");
 
    init();
 
