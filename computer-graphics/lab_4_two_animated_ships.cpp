@@ -3,7 +3,6 @@
 #include<GL/glu.h>
 #include<GL/glut.h>
 
-
 /* LAB-3
 Developed by 181006912 */
 
