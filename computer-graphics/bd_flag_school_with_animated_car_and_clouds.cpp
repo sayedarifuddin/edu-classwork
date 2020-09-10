@@ -4,8 +4,7 @@
 #include <math.h>
 
 float car_1_x_axis=160.0; //x-axis
-//x-axis of the flag_circle
-float circlex=-250.0;
+float circlex=-250.0; //x-axis of the flag_circle
 
 //x-axis of clouds
 float cloud1x=-300.0;
