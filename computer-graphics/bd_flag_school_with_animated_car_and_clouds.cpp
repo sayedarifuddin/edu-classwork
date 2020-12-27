@@ -50,10 +50,6 @@ void flag_circle()
     circle(225,180); //used the same circle drawing code
 }
 
-//cloud_1
-
-
-
 void car1() // going from left to right
 {
     glLoadIdentity();
@@ -88,7 +84,7 @@ void car1() // going from left to right
     circle(380,100);
 }
 
-
+//cloud_1
 void circle1()
 {
     glColor3f(1.0,1.0,1.0);
