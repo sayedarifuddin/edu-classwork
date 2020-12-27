@@ -331,11 +331,11 @@ void display()
     flag();
     flag_circle();
     car1();
+
     circle1();
     circle2();
     circle3();
     circle4();
-
     circle5();
     circle6();
     circle7();
