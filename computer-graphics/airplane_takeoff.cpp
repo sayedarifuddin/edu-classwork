@@ -505,7 +505,7 @@ int main(int argc, char* argv[])
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(500.0,500.0);
     glutInitWindowPosition(0,0);
-    glutCreateWindow("181006912_181008412");
+    glutCreateWindow("1810069_8412");
     glutDisplayFunc(display);
     myinit();
     glutTimerFunc(100,update,0);
